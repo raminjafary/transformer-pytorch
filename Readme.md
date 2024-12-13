@@ -1,9 +1,5 @@
-In case this error happens:
-```
-urllib3 v2.0 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with LibreSSL 2.8.3
-```
+# pytorch-transformer
+Attention is all you need implementation
 
-```bash
-pip uninstall urllib3
-pip install 'urllib3<2.0'
-```
+YouTube video with full step-by-step implementation: https://www.youtube.com/watch?v=ISNdQcPhsts
+
